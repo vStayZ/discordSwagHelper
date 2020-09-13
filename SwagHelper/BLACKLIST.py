@@ -1,0 +1,1 @@
+BLOCK = ["slut", "faggot", "cunt", "pussy", "dick", "blowjob", "handjob", "retard", "vagina", "penis", "fuck"]
